@@ -1,0 +1,38 @@
+.bg {
+    background-image: url(img/bg_02.png);
+    background-repeat: no-repeat;
+    background-position: initial;
+    background-size: cover;
+    background-color: #e7dbcf;
+}
+
+.nav_logo {
+    max-height: 30px;
+}
+
+.mockup_trustyou {
+    background-image: url(img/mockup_iphone.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 585px;
+    width: 280px;
+}
+
+.btn_div {
+    margin-top: 130%;
+    margin-left: 23%;
+}
+.btn_trustyou {
+    background-color: #CF3535;
+    border-color: #CF3535;
+}
+.btn_trustyou:hover{
+    background-color: #ff6565;
+    border-color: #ff6565;
+}
+
+@media (max-width: 1000px) {
+    .btn_div {
+        margin-top: 150%;
+    }
+}
