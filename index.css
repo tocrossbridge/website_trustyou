@@ -31,6 +31,12 @@
     border-color: #ff6565;
 }
 
+.btn_trustyou:not(:disabled):not(.disabled).active, .btn_trustyou:not(:disabled):not(.disabled):active, .btn_trustyou.focus, .btn_trustyou:focus{
+    background-color: #ff6565!important;
+    border-color: #ff6565!important;
+    box-shadow: 0 0 0 0.2rem rgb(255 49 38 / 50%)!important;
+}
+
 @media (max-width: 1000px) {
     .btn_div {
         margin-top: 150%;
