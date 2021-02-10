@@ -1,6 +1,6 @@
 # Website TrustYou
 
-<img src="img/mockup.png" />
+<img src="img/mockup_desktop.png" />
 
 <b>Made with:</b><br/>
 Bootstrap 4.6
