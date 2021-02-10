@@ -1,7 +1,6 @@
 .bg {
-    background-image: url(img/bg_02.png);
+    background-image: url(img/bg_03.png);
     background-repeat: no-repeat;
-    background-position: initial;
     background-size: cover;
     background-color: #e7dbcf;
 }
@@ -42,6 +41,9 @@
 }
 
 @media (max-width: 1000px) {
+    .bg {
+        background-image: url(img/bg_mobile.png);
+    }
     .btn_div {
         margin-top: 150%;
     }
