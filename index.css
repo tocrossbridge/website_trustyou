@@ -22,12 +22,13 @@
 }
 
 .btn_div {
-    margin-top: 130%;
-    margin-left: 5rem;
+    margin-top: 28rem;
+    margin-left: 3rem;
 }
 .btn_trustyou {
     background-color: #CF3535;
     border-color: #CF3535;
+    padding: 15px 50px;
 }
 .btn_trustyou:hover{
     background-color: #ff6565;
@@ -45,7 +46,10 @@
         background-image: url(img/bg_mobile.png);
     }
     .btn_div {
-        margin-top: 150%;
-        margin-left: 3rem;
+        margin-top: 21rem;
+        margin-left: 2rem;
+    }
+    .btn_trustyou {
+        padding: 10px 30px;
     }
 }
