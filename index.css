@@ -23,7 +23,7 @@
 
 .btn_div {
     margin-top: 130%;
-    margin-left: 23%;
+    margin-left: 5rem;
 }
 .btn_trustyou {
     background-color: #CF3535;
@@ -46,5 +46,6 @@
     }
     .btn_div {
         margin-top: 150%;
+        margin-left: 3rem;
     }
 }
