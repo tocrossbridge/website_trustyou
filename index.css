@@ -9,6 +9,10 @@
 .nav_logo {
     max-height: 30px;
 }
+.navbar-light .navbar-nav .nav-link {
+    color: #18191F!important;
+    font-weight: 600;
+}
 
 .mockup_trustyou {
     background-image: url(img/mockup_iphone.png);
